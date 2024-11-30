@@ -11,6 +11,8 @@ allowed to call the API methods in this app).
 
 ## Installation
 
+Latest version is `v0.50.1`.
+
 Termux:API application can be obtained from [F-Droid](https://f-droid.org/en/packages/com.termux.api/).
 
 Additionally we provide per-commit debug builds for those who want to try
@@ -20,7 +22,7 @@ page.
 
 Signature keys of all offered builds are different. Before you switch the
 installation source, you will have to uninstall the Termux application and
-all currently installed plugins.
+all currently installed plugins. Check https://github.com/termux/termux-app#Installation for more info.
 
 ## License
 
